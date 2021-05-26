@@ -1,0 +1,25 @@
+img,  section, main {
+    margin: auto;
+    width:50%;
+    align-items: center;
+    text-align: center;
+}
+
+body {
+    background-image: url("gradienta-ix_kUDzCczo-unsplash-2.jpg")
+}
+
+.font-size {
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.hdhabitants, .habitants {
+
+    font-size: x-large;
+}
+
+p {
+    font-size: xx-large;
+    
+}
